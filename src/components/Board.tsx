@@ -1,5 +1,3 @@
-// src/components/BoardShell.tsx
-import { useEffect } from "react";
 import boardImg from "../board.png"; // your photo
 import HolesOverlay from "./HolesOverlay";
 
